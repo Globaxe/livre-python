@@ -22,6 +22,7 @@ Table des matières
    io/index.rst
    itertools/index.rst
    json/index.rst
+<<<<<<< 70b8307f349532e1c649e99b8afdbedbc7f1a30c
    math/index.rst
    multiprocessing/index.rst
    re/index.rst
@@ -85,3 +86,7 @@ Table des matières
 :Date:  2017-03-16
 :Licence:
         :ref:`licence`
+=======
+   collections/index.rst
+   licence.rst
+>>>>>>> test de pull request 4
