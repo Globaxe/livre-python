@@ -22,7 +22,10 @@ Table des matières
    io/index.rst
    itertools/index.rst
    json/index.rst
+<<<<<<< d7815e21087577097deb1301b498fed867e45bdc
 <<<<<<< 70b8307f349532e1c649e99b8afdbedbc7f1a30c
+=======
+>>>>>>> ajout des pycon et :py:mod:
    math/index.rst
    multiprocessing/index.rst
    re/index.rst
@@ -86,7 +89,10 @@ Table des matières
 :Date:  2017-03-16
 :Licence:
         :ref:`licence`
+<<<<<<< d7815e21087577097deb1301b498fed867e45bdc
 =======
    collections/index.rst
    licence.rst
 >>>>>>> test de pull request 4
+=======
+>>>>>>> ajout des pycon et :py:mod:
